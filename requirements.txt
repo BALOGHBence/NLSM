@@ -4,3 +4,6 @@ nbinteract
 numpy
 scipy
 matplotlib
+pyvista
+ipyvtklink
+numba
